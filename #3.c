@@ -1,4 +1,5 @@
 #include <stdio.h> 
+
 int main(){ 
   int par = 0, imp = 0, val, i;
   for(i=0; i<=10; i++){
