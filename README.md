@@ -1,5 +1,5 @@
 # ExerciciosC
-  Códigos em _Linguagem C_ de perguntas feitas no ![Brainly](https://Brainly.com.br) em que este que vos escreve respondeu.
+  Códigos em _Linguagem C_ de perguntas feitas no <a href="https://Brainly.com.br">Brainly</a> em que este que vos escreve respondeu.
 # Propósito
   Ajudar alunos e pessoas que queiram aprender um pouco mais sobre programação.
 # Objetivos
